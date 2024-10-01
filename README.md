@@ -8,13 +8,13 @@
 - **C++**
 - **SQL**
 - **PHP**
-- **HTML, CSS, JavaScript** (en menor medida)
+- **HTML, CSS, JavaScript** 
 
 Actualmente, estoy desarrollando una aplicación para el **manejo de una biblioteca escolar** utilizando **Maven** y **Java**.
 
 ---
 
-## Tecnologías que estoy aprendiendo:
+## Tecnologías en las que estoy interesado:
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)

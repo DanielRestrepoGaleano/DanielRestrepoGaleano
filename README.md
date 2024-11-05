@@ -4,8 +4,8 @@
 
 ¡Hola! Soy Daniel Restrepo Galeano, estudiante de desarrollo de software en la Corporación Universitaria Remington. Estoy enfocado en **Java**, pero también tengo interés en aprender otros lenguajes y tecnologías que incluyen:
 
-- **Kotlin**
-- **C++**
+- **.NET**
+- **C#**
 - **SQL**
 - **PHP**
 - **HTML, CSS, JavaScript**
@@ -19,7 +19,8 @@ Actualmente, estoy desarrollando una aplicación para el **manejo de una bibliot
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

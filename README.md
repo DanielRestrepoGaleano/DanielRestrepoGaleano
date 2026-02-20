@@ -8,6 +8,7 @@ Me especializo en el desarrollo Backend con **Java y Spring Boot**, y tengo un f
 
 Y sientete libre de explorar todos los repositorios que tengo públicos en este momento, vas a encontrar cosas simples hechas en java y python, además de actividades que he realizado con el tiempo
 
+Mi hoja de vida por si estás interesado o interesada [CV](https://danielrestrepogaleanocv.netlify.app/)
 ---
 
 ## 🛠️ Stack Tecnológico y Herramientas
@@ -79,6 +80,7 @@ I specialize in Backend development with **Java and Spring Boot**, and I have a 
 
 Feel free to explore all the public repositories I currently have — you'll find simple projects built in Java and Python, as well as assignments I've completed over time.
 
+My CV if you want to take a look [CV](https://danielrestrepogaleanocv.netlify.app/)
 ---
 
 ## 🛠️ Tech Stack & Tools
